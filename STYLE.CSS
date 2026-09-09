@@ -23,7 +23,7 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-/* Navigation */
+
 
 header {
     position: fixed;
@@ -73,7 +73,6 @@ header {
     color: var(--red);
 }
 
-/* Hero */
 
 .hero {
     min-height: 100vh;
@@ -269,7 +268,7 @@ header {
     border-radius: 50%;
 }
 
-/* Animations */
+
 
 @keyframes carFloat {
     0%, 100% {
@@ -291,7 +290,7 @@ header {
     }
 }
 
-/* Sections */
+
 
 .section {
     max-width: 1200px;
@@ -397,7 +396,7 @@ header {
     line-height: 1.7;
 }
 
-/* Projects */
+
 
 .projects {
     display: grid;
@@ -442,7 +441,7 @@ header {
     text-decoration: none;
 }
 
-/* Contact */
+
 
 .contact {
     text-align: center;
@@ -472,7 +471,7 @@ header {
     margin-bottom: 35px;
 }
 
-/* Footer */
+
 
 footer {
     text-align: center;
@@ -482,7 +481,7 @@ footer {
     font-size: 13px;
 }
 
-/* Mobile */
+
 
 @media (max-width: 900px) {
 
